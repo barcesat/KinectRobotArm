@@ -25,6 +25,8 @@ The processing test sketch is based on the slider example.
 I've added more sliders and a Serial link to the arduino.
 The slide ranges were changed according to the servo's angles (0-180)
 
+![](/Processing/Servo_control/Capture.JPG)
+
 ## Processing sketch - [randomservo](/Processing/randomservo/randomservo.pde)
 This program writes random values between 0-180 every 10 seconds to the arduino
 
