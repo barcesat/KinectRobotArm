@@ -34,16 +34,16 @@ More info about the library: http://www.magicandlove.com/blog/research/kinect-fo
 (Screenshots)
 
 ## Images from the GeekPicnic event
-![]({{site.baseurl}}/Images/GeekPicNic_25_small.JPG)
+![]({{site.baseurl}}/Images/GeekPicNic_25_small.jpg)
 
-![]({{site.baseurl}}/Images/GeekPicNic_24_small.JPG)
+![]({{site.baseurl}}/Images/GeekPicNic_24_small.jpg)
 
-![]({{site.baseurl}}/Images/GeekPicNic_19_small.JPG)
+![]({{site.baseurl}}/Images/GeekPicNic_19_small.jpg)
 
-![]({{site.baseurl}}/Images/GeekPicNic_15_small.JPG)
+![]({{site.baseurl}}/Images/GeekPicNic_15_small.jpg)
 
-![]({{site.baseurl}}/Images/GeekPicNic_22_small.JPG)
+![]({{site.baseurl}}/Images/GeekPicNic_22_small.jpg)
 
-![]({{site.baseurl}}/Images/GeekPicNic_18_small.JPG)
+![]({{site.baseurl}}/Images/GeekPicNic_18_small.jpg)
 
 (video?)
