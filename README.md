@@ -10,10 +10,10 @@ The servos were powered with a DC-DC converter (12V to 6V)
 
 
 ## Schematic
-![]({{site.baseurl}}/schematic.JPG)
+![](/schematic.JPG)
 
 ## Drawing
-![]({{site.baseurl}}/Drawing.JPG)
+![](/Drawing.JPG)
 
 ## Arduino Sketch
 The program in arduino is very basic, it waits for bytes in order of the servos and writes them to the servos.
@@ -34,16 +34,16 @@ More info about the library: http://www.magicandlove.com/blog/research/kinect-fo
 (Screenshots)
 
 ## Images from the GeekPicnic event
-![]({{site.baseurl}}/Images/GeekPicNic_25_small.jpg)
+![](/Images/GeekPicNic_25_small.jpg)
 
-![]({{site.baseurl}}/Images/GeekPicNic_24_small.jpg)
+![](/Images/GeekPicNic_24_small.jpg)
 
-![]({{site.baseurl}}/Images/GeekPicNic_19_small.jpg)
+![](/Images/GeekPicNic_19_small.jpg)
 
-![]({{site.baseurl}}/Images/GeekPicNic_15_small.jpg)
+![](/Images/GeekPicNic_15_small.jpg)
 
-![]({{site.baseurl}}/Images/GeekPicNic_22_small.jpg)
+![](/Images/GeekPicNic_22_small.jpg)
 
-![]({{site.baseurl}}/Images/GeekPicNic_18_small.jpg)
+![](/Images/GeekPicNic_18_small.jpg)
 
 (video?)
