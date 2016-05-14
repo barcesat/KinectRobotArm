@@ -1,6 +1,8 @@
 # KinectRobotArm
 Control a robotic arm with Kinect for XBOX 360 camera using processing and arduino
 
+(video from youtube)
+
 For the first [GeekPicnic festival in Jerusalem](http://geekpicnic.co.il/), Israel I've took a robotic arm and wanted it to dance according to the person's movements in front of it.
 
 The robotic arm is based on a kit by lynxmotion: [http://www.lynxmotion.com/p-1033-al5a-robotic-arm-combo-kit-no-software-wssc-32u.aspx](http://www.lynxmotion.com/p-1033-al5a-robotic-arm-combo-kit-no-software-wssc-32u.aspx)
@@ -15,7 +17,7 @@ The servos were powered with a DC-DC converter (12V to 6V)
 ## Drawing
 ![](/Drawing.JPG)
 
-## Arduino Sketch
+## Arduino Sketch - [robotic_arm](/Arduino/robotic_arm/robotic_arm.ino)
 The program in arduino is very basic, it waits for bytes in order of the servos and writes them to the servos.
 
 ## Processing Sketch - [Servo_control](/Processing/Servo_control/Servo_control.pde)
@@ -45,5 +47,3 @@ More info about the library: http://www.magicandlove.com/blog/research/kinect-fo
 ![](/Images/GeekPicNic_22_small.jpg)
 
 ![](/Images/GeekPicNic_18_small.jpg)
-
-(video?)
